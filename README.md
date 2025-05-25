@@ -2,8 +2,9 @@
 # 🛡️ Phishing Detection Tool
 
 A lightweight Java-based phishing detection tool that analyzes suspicious URLs, email headers, click activities, and image names to identify potential phishing attempts.
+
+
 📑 Table of Contents
-📌 Project Overview
 
 🛠 Features
 
